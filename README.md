@@ -25,3 +25,5 @@ https://www.kiplinger.com/article/real-estate/t050-c000-s001-10-green-myths-debu
 https://inhabitat.com/7-of-the-biggest-eco-friendly-and-green-living-myths/ 
 
 https://www.theguardian.com/environment/green-living-blog/2009/nov/26/top-10-green-living-myths 
+
+Jahren, H. (2020). The story of more: How we got to climate change and where to go from here. Vintage.
