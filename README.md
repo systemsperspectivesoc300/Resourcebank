@@ -3,7 +3,7 @@ A collection of resources for real world systems literacy as well as references 
 
 **Systems Literacy Resources:**
 
-A guide to navigating bureaucracies https://allen-faulton.medium.com/the-fine-art-of-navigating-bureaucracy-a91236a29e58 
+A guide to navigating bureaucracies https://allen-faulton.medium.com/the-fine-art-of-navigating-bureaucracy-a91236a29e58 archived: https://archive.ph/nio3P
 
 Resist Bot is an automated text system that will contact your elected officials for you. https://resist.bot/ 
 
